@@ -1,0 +1,2 @@
+MDM and smpl2bvh --> python==3.8.0
+bvh2fb --> python==3.7.0
